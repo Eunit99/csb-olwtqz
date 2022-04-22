@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://eunit99.github.io/csb-olwtqz/static/css/main.c3cb6d2a.chunk.css",
+    "main.js": "https://eunit99.github.io/csb-olwtqz/static/js/main.734d4003.chunk.js",
+    "main.js.map": "https://eunit99.github.io/csb-olwtqz/static/js/main.734d4003.chunk.js.map",
+    "runtime-main.js": "https://eunit99.github.io/csb-olwtqz/static/js/runtime-main.d2b88400.js",
+    "runtime-main.js.map": "https://eunit99.github.io/csb-olwtqz/static/js/runtime-main.d2b88400.js.map",
+    "static/css/2.9ec07ce6.chunk.css": "https://eunit99.github.io/csb-olwtqz/static/css/2.9ec07ce6.chunk.css",
+    "static/js/2.8cdfe471.chunk.js": "https://eunit99.github.io/csb-olwtqz/static/js/2.8cdfe471.chunk.js",
+    "static/js/2.8cdfe471.chunk.js.map": "https://eunit99.github.io/csb-olwtqz/static/js/2.8cdfe471.chunk.js.map",
+    "index.html": "https://eunit99.github.io/csb-olwtqz/index.html",
+    "static/css/2.9ec07ce6.chunk.css.map": "https://eunit99.github.io/csb-olwtqz/static/css/2.9ec07ce6.chunk.css.map",
+    "static/css/main.c3cb6d2a.chunk.css.map": "https://eunit99.github.io/csb-olwtqz/static/css/main.c3cb6d2a.chunk.css.map",
+    "static/js/2.8cdfe471.chunk.js.LICENSE.txt": "https://eunit99.github.io/csb-olwtqz/static/js/2.8cdfe471.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2b88400.js",
+    "static/css/2.9ec07ce6.chunk.css",
+    "static/js/2.8cdfe471.chunk.js",
+    "static/css/main.c3cb6d2a.chunk.css",
+    "static/js/main.734d4003.chunk.js"
+  ]
+}
